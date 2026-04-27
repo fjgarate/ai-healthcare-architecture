@@ -69,6 +69,9 @@ No todos los intercambios tienen las mismas necesidades temporales.
 En algunos casos, un flujo en batch o con cierto retraso puede ser suficiente. En otros, especialmente cuando hay alertas, soporte a la decisión o eventos clínicos relevantes, la oportunidad con la que llega la información condiciona su utilidad.
 
 Diseñar esta capa exige entender no solo qué dato se intercambia, sino también cuándo tiene que llegar para seguir siendo útil.
+
+---
+
 ## 3. Problemas reales de interoperabilidad
 
 ### 3.1. Sistemas aislados
